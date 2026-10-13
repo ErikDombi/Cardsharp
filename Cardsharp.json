@@ -1,0 +1,18 @@
+{
+  "id": "Cardsharp",
+  "name": "Cardsharp",
+  "display_name": "Cardsharp",
+  "author": [
+    "Wickedlizerd"
+  ],
+  "description": "An all-in-one mod menu. Press F1 during a run (or use the Cardsharp button in the pause menu) to spawn any joker, consumable, voucher, booster or tag; forge custom playing cards; change editions, enhancements, seals and stickers on any card; edit money, hands, discards, ante, slots and hand levels; pick boss blinds; toggle cheats; and save or load run snapshots.",
+  "prefix": "cshp",
+  "main_file": "main.lua",
+  "dependencies": [
+    "Steamodded (>=26.829.0)"
+  ],
+  "priority": 50,
+  "badge_colour": "C9A23F",
+  "badge_text_colour": "FFFFFF",
+  "version": "1.0.1"
+}
